@@ -2,7 +2,7 @@
 div.admonition {
   padding: 0;
   margin-bottom: 20px;
-  background-color: gray;
+  background-color: red;
   border: 1px solid;
   border-bottom-left-radius: var(--border-radius);
   border-bottom-right-radius: var(--border-radius);
